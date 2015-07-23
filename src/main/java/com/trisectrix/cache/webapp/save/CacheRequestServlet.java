@@ -15,7 +15,7 @@ import java.io.IOException;
  */
 public class CacheRequestServlet extends HttpServlet {
 
-    private static final String SUCCESS = "Sucess";
+    private static final String SUCCESS = "Success";
 
     public CacheRequestServlet(){}
 
