@@ -10,7 +10,7 @@
 
   <properties>
       <jackson.version>2.12.7.1</jackson.version>
-      <jettyVersion>7.1.6.v20100715</jettyVersion>
+      <jettyVersion>9.4.56.v20240826</jettyVersion>
   </properties>
 
   <dependencies>
